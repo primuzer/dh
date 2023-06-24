@@ -1,0 +1,45 @@
+/* This is the style.css file for the hotel website */
+
+/* This is the style for the header */
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+/* This is the style for the navigation bar */
+nav {
+  background-color: #333;
+  overflow: hidden;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  display: inline-block;
+  padding: 10px;
+}
+
+nav a {
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+/* This is the style for the main content */
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+/* This is the style for the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
